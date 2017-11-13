@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="please_input_1_100_first">Please Input 1~100 First</string>
+    <string name="input">Input</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">猜數字</string>
+    <string name="input">輸入</string>
+    <string name="please_input_1_100_first">請輸入1~100</string>
+</resources>
